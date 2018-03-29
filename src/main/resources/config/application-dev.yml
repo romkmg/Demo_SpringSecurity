@@ -1,0 +1,16 @@
+##Dev环境
+spring:
+    profiles: dev
+
+
+#服务端口
+server:
+  port: 8080
+
+
+#数据库IP
+db:
+  ip: 127.0.0.1
+  name: test
+  username: root
+  password: 123456
